@@ -10,7 +10,7 @@ There are many tutorials online, e.g. [this one](https://www.notion.so/zarkom/In
 
 Clone this repo and navigate into it:
 ```bash
-git clone https://github.com/imagirom/mlph_sheet01.git
+git clone https://github.com/hci-unihd/mlph_sheet01.git
 cd mlph_sheet01
 ```
 
